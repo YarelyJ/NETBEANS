@@ -3,6 +3,7 @@ import java.*;
 public class Arreglos {
     public static void main (String []args){
         byte calculo [] = new byte [5];
+        //hola
         int x,sumatoria = 0,pro;
         String titulos []={"u1","u2","u3","u4","u5","pro"};
         for (x=0;x<5;x++){
